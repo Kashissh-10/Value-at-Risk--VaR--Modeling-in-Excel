@@ -1,5 +1,5 @@
 # Value-at-Risk-VaR-Modeling-in-Excel
-This Excel project implements a comprehensive Value at Risk (VaR) framework to estimate potential portfolio losses of top 3 indian banks (as per market capitalization as on 22 May 2025) through multiple methodologies:
+This Excel project implements a comprehensive Value at Risk (VaR) framework to estimate potential portfolio losses of **Top 3 Indian Banks** (**as per market capitalization as on 22 May 2025**) through multiple methodologies:
 
 ## Methodologies Implemented
 
